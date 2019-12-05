@@ -6,11 +6,13 @@
 
 A program that generates QR codes from the websites you visit in real-time. You can scan the code and quickly open the website on your mobile device.
 
+**Example: QR codes generated as you browse the internet**
+
+![](graphic1.gif)
+
 **Requirements**
 
-It is required that you have Node.js and npm installed on your system as well as Python 3.
-
-My setup is: Node.js v8.11.1, Pyhton 3.6, npm 5.6.0 these are not strict requrements the program should work with node versions lower than this. 
+Node.js v8.11.1, Pyhton 3.6, npm 5.6.0 these are not strict requrements the program should work with node versions lower than this. However higher versions are not compatible at this time.
 
 It is also encouraged but optional to use virtualenv to set up a local environment to install all dependencies. 
 
