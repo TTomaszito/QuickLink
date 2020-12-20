@@ -12,7 +12,7 @@ A program that generates QR codes from the websites you visit in real-time. You 
 
 **Requirements**
 
-Node.js v8.11.1, Pyhton 3.6, npm 5.6.0 these are not strict requrements the program should work with node versions lower than this. However higher versions are not compatible at this time.
+Node.js v8.11.1, Python 3.6, npm 5.6.0 these are not strict requirements the program should work with node versions lower than this. However higher versions are not compatible at this time.
 
 It is also encouraged but optional to use virtualenv to set up a local environment to install all dependencies. 
 
